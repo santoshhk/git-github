@@ -1,3 +1,3 @@
 # git-github
 This is for tutorial purpose
-git 
+git and github
